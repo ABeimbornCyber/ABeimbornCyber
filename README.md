@@ -1,6 +1,15 @@
 ## Hi there 👋
 
+I am a:
+  - Student
+  - Hacker
+  - Nerd
+  - Full-time follower of Christ
 
+Currently I am working on...
+- Gaining some more depth in my knowledge of programming, cybersecurity, IT, and Electrical Engineering
+
+I hope this can flourish into something beautiful - D.V.
 
 <!--
 **ABeimbornCyber/ABeimbornCyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +25,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Soli Deo Gloria
